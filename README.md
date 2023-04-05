@@ -3,9 +3,7 @@
 <head>
  <meta charset="UTF-8">
 <title> As 5 series favoritas da Thay </title>
-<style>
-    .FINAL{align-items: center; }
-</style>
+
 </head>
 
 <body>
@@ -59,12 +57,11 @@ style="height: 800px;" alt="Baner do Big Bang Theory">
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrq6cRK12zrAuOlcUjC7auIPLMdvUJSlS0IzoYkaGF5mOYFim1" 
 style="height: 800px;" alt="Baner do The Witcher"> 
 <P>The Witcher (em polonês, Wiedźmin) é uma série de televisão via streaming estadunidense-polonesa de drama e fantasia, criada por Lauren Schmidt Hissrich, baseada na série de livros do escritor polonês Andrzej Sapkowski. Situado em uma terra fictícia de inspiração medieval conhecida como "o continente", The Witcher explora a lenda de Geralt de Rivia e da Princesa Cirila, que estão ligados um ao outro pelo destino. A série é estrelada por Henry Cavill, Freya Allan e Anya Chalotra.
-
     A primeira temporada consistiu em oito episódios e foi lançada na Netflix em 20 de dezembro de 2019. Foi baseada em The Last Wish e Sword of Destiny, que são coleções de contos que precedem a saga principal de Wiedźmin. A segunda temporada, composta por oito episódios, foi lançada em 17 de dezembro de 2021. Em setembro de 2021, a Netflix renovou a série para uma terceira temporada. Um filme de animação, The Witcher: Nightmare of the Wolf, foi lançado em 23 de agosto de 2021, enquanto uma minissérie prequela, The Witcher: Blood Origin, foi lançada em 2022.</P>
 
 
 </body>
-<div class="FINAL">
+<div >
 <footer>
 	<p style="font-size: small; font-weight: bold;">Por Thayana Sampaio</p>
 	<a href="https://www.linkedin.com/in/thayana-sampaio-91257a161/" target="_blank">Meu LinkedIn</a>
